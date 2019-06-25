@@ -16,7 +16,7 @@ body {
 header {
     background: #ccc;
     padding: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 nav {
@@ -48,9 +48,28 @@ nav {
     margin-top: 15px;
 }
 
+#statementa {
+    width: 430px;
+    height: 35px;
+    padding: 8px;
+    background: #777;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background: #ccc;
+    color: #777
+}
+
+#statementb {
+    width: 430px;
+    height: 35px;
+    padding: 8px;
+    background: #ccc;
+    color: #777;
+}
+
 #aside {
     background: #ccc;
-    width: 440px;
+    width: 450px;
     height: 200px;
     padding: 15px;
     margin-right: 0;
